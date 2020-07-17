@@ -1,5 +1,0 @@
-app: myapp1
-spring:
-  datasource:
-    username: egbert
-    password: {cipher}5c8852d5d8ea45cfee0e20f01edd106358d0f64f0674c6076112be5a80f71b625ce8dbe2d9ba1c61d5cd8255363b15fb
